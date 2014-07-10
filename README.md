@@ -2,7 +2,7 @@
 This is intended to be a quick get-up-and-running tutorial.
 
 ##Quick Install of Docker
-From the command line, change to a directory where you want to install the docker.io installation script and run:
+From the command line, change to a directory where you want to install the docker.io_001 installation script and run:
  * `sudo apt-get install git`
  * `git clone https://github.com/fsziegler/docker.io_001.git`
  * `cd docker.io_001/`
